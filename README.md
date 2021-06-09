@@ -10,7 +10,9 @@ A discord bot that can function just like the Salty Bet. You have a group of fri
   6. Once the match has finished, react to the message according to who won (a or b)
 
 Note: You must have at least 3 people to play
+
 Note: this won't work on your own machine unless you have an environment file set up. It should be formatted with a file titled ".env" and should have two lines of code that follow this format:
 
 DISCORD_TOKEN=(string of letters and numbers)
+
 DISCORD_GUILD=(Discord Server Name)
